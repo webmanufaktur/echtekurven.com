@@ -3,4 +3,4 @@
 
 ### License
 
-[Free Use Attribution License (FUAL)](./license.md)
+[Free Use Attribution License (FUAL)](./LICENSE.md)
